@@ -3,11 +3,21 @@ entries:
   nginx-server:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-07-09T08:45:01.266545692Z"
+    created: "2020-07-09T10:08:24.317826095Z"
     description: A Helm chart for Kubernetes
     digest: 28bae44202d6087ef99900249ac5b35a437ee3be3389bd053677267ec230c622
     name: nginx-server
     urls:
     - http://piyush5989.github.io/helm-chart-tests/nginx-server-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-09T08:45:01.265628154Z"
+  simple-chart:
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2020-07-09T10:08:24.317984982Z"
+    description: A Helm simple chart for Kubernetes
+    digest: 0a5611023077f281153772ec482d6fe5938b8208cc91b2b138331a25e692b193
+    name: simple-chart
+    urls:
+    - http://piyush5989.github.io/helm-chart-tests/simple-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-09T10:08:24.316915154Z"
